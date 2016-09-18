@@ -2,9 +2,9 @@
 This is demonstration of  all the sorting techniques in python language
 
 ##Technieques
--Bubble Sort
--Insertion Sort
--Selection Sort
+*Bubble Sort
+*Insertion Sort
+*Selection Sort
 -Merge Sort
 -Quick Sort
 -Heap Sort
